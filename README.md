@@ -2,6 +2,7 @@
 
 ## 2018 
 
+- [浅谈 Vue 指令](https://github.com/jd-smart-fe/shared/issues/7)
 - [2018 团队分享计划](https://github.com/jd-smart-fe/shared/issues/6)
 
 ## 2017

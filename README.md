@@ -14,5 +14,7 @@
 - [Vue源码解析--数据响应化](https://github.com/pspgbhu/vue-source-analysis/issues/1)
 - [Git 分支合并 merge or rebase](https://github.com/JD-Smart-FE/shared/issues/2)
 
-## 博客
+## Blog
 - [Pspgbhu's Blog](http://blog.pspgbhu.me/)
+  - [前端优化：首屏渲染的阻塞与常见的优化方式](http://blog.pspgbhu.me/rendering-block-and-the-way-to-optimize/)
+  - [浏览器渲染引擎工作原理（一）：HTML 解析与树的构建](http://blog.pspgbhu.me/how-browser-rendering-engine-works-part-1/)

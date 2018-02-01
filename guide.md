@@ -57,9 +57,11 @@ insert_final_newline = true
 
 使用 ESLint 来进行代码风格检测。
 
-团队目前以 airbnb 代码风格为基准。
+为了缩短新新项目的 eslintrc 配置和相关依赖包安装的成本，建议使用 [eslint-g](https://github.com/pspgbhu/eslint-g) 完成 eslint 的配置。
 
-使用 [eslint-g](https://github.com/pspgbhu/eslint-g) 来自动生成 `.eslintrc.json` 文件。
+来自动生成 `.eslintrc.json` 文件
+
+eslint-g 可以帮助你生成 `.eslintrc.json` 文件，并且帮你安装相应的依赖包。
 
 ```bash
 $ sudo npm i -g eslint-g    # 安装

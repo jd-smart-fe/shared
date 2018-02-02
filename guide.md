@@ -55,17 +55,27 @@ insert_final_newline = true
 
 ## 代码风格规范
 
-使用 ESLint 来进行代码风格检测。
+使用 ESLint 来进行代码风格检测。[查看团队常用 eslintrc 配置](https://github.com/pspgbhu/eslint-g/tree/master/rc)
 
-为了缩短新新项目的 eslintrc 配置和相关依赖包安装的成本，建议使用 [eslint-g](https://github.com/pspgbhu/eslint-g) 完成 eslint 的配置。
+在本地部署 ESLint 开发环境：
 
-来自动生成 `.eslintrc.json` 文件
+1. 安装 ESLint npm 包
+```js
+$ npm install -g eslint
+```
 
-eslint-g 可以帮助你生成 `.eslintrc.json` 文件，并且帮你安装相应的依赖包。
+2. 在代码编辑器插件中心下载 eslint 插件，以获得在编辑器内实时监测代码风格的功能。
+
+3. 使用 Vue 或 React 脚手架时，请启用 ESLint，以获取编译时的代码风格检测功能。
+
+4. 配置适合项目的 ESLint 规则，并安装对应 npm 包到项目下。(推荐使用工具 [eslint-g](https://github.com/pspgbhu/eslint-g) 来完成该步骤)
+
+[eslint-g](https://github.com/pspgbhu/eslint-g) 可以帮助你生成 **Nodejs**, **Vue**, **React** 和 **浏览器通用环境** 下的团队常用的 ESLint 配置，同时还会帮助你安装对应的 npm 依赖包。
+
 
 ```bash
-$ sudo npm i -g eslint-g    # 安装
+$ sudo npm i -g eslint-g    # 安装，会在终端中增加 esg 命令。
 $ cd my-project             # 进入项目根目录
-$ esg -r react              # 生成 react 的 eslintrc 规则，并安装相应依赖
+$ esg -r react -i yarn      # 生成 react 的 eslintrc 规则，并使用 yarn 安装相应依赖
 ```
 更多配置请查看 [eslint-g 文档](https://github.com/pspgbhu/eslint-g)

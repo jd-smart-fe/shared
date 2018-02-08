@@ -28,12 +28,12 @@ $ git commit -m "feat: add a new feature in button component"
 
 配置文件内容如下:
 ```
-indent_style = space
-indent_size = 2
-end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
+indent_style = space                # 使用空格缩进
+indent_size = 2                     # 缩进长度 2 空格
+end_of_line = lf                    # Unix 换行符
+charset = utf-8                     # 编码格式 UTF-8
+trim_trailing_whitespace = true     # 删除行位空格
+insert_final_newline = true         # 文件尾部添加一个空行
 ```
 
 ### 在 vscode 中使用 EditorConfig

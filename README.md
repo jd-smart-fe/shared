@@ -20,5 +20,6 @@
 
 ## Blog
 - [Pspgbhu's Blog](http://blog.pspgbhu.me/)
+  - [浏览器渲染引擎工作原理（二）：布局与绘制](http://blog.pspgbhu.me/how-browser-rendering-engine-works-part-2/)
   - [前端优化：首屏渲染的阻塞与常见的优化方式](http://blog.pspgbhu.me/rendering-block-and-the-way-to-optimize/)
   - [浏览器渲染引擎工作原理（一）：HTML 解析与树的构建](http://blog.pspgbhu.me/how-browser-rendering-engine-works-part-1/)

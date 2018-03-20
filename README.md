@@ -19,7 +19,4 @@
 - [代码规范](https://github.com/jd-smart-fe/shared/blob/master/guide.md)
 
 ## Blog
-- [Pspgbhu's Blog (Latest three)](http://blog.pspgbhu.me/):
-  - [React 服务端渲染与同构 🚀](http://blog.pspgbhu.me/article/react-isomorphic/)
-  - [浏览器渲染引擎工作原理（二）：布局与绘制](http://blog.pspgbhu.me/article/how-browser-rendering-engine-works-part-2/)
-  - [前端优化：首屏渲染的阻塞与常见的优化方式](http://blog.pspgbhu.me/article/rendering-block-and-the-way-to-optimize/)
+- [Pspgbhu's Blog](http://blog.pspgbhu.me/)

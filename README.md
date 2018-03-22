@@ -1,6 +1,7 @@
 # 共享文档
 
 ## 2018
+- [对观察者模式的思考](https://github.com/jd-smart-fe/shared/issues/9)
 - [Web 安全之 XSS 攻击与防御](https://github.com/jd-smart-fe/shared/issues/8)
 - [浅谈 Vue 指令](https://github.com/jd-smart-fe/shared/issues/7)
 - [2018 团队分享计划](https://github.com/jd-smart-fe/shared/issues/6)

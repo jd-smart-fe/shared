@@ -1,6 +1,7 @@
 # 共享文档
 
 ## 2018
+- [React 服务端渲染与同构](https://github.com/jd-smart-fe/shared/issues/10)
 - [对观察者模式的思考](https://github.com/jd-smart-fe/shared/issues/9)
 - [Web 安全之 XSS 攻击与防御](https://github.com/jd-smart-fe/shared/issues/8)
 - [浅谈 Vue 指令](https://github.com/jd-smart-fe/shared/issues/7)

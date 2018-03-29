@@ -4,6 +4,7 @@
 - [React 服务端渲染与同构](https://github.com/jd-smart-fe/shared/issues/10)
 - [对观察者模式的思考](https://github.com/jd-smart-fe/shared/issues/9)
 - [Web 安全之 XSS 攻击与防御](https://github.com/jd-smart-fe/shared/issues/8)
+- [Vue 生命周期钩子函数](https://github.com/jd-smart-fe/shared/issues/12)
 - [浅谈 Vue 指令](https://github.com/jd-smart-fe/shared/issues/7)
 - [2018 团队分享计划](https://github.com/jd-smart-fe/shared/issues/6)
 

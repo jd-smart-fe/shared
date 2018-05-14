@@ -13,11 +13,15 @@
 * feat：新功能（feature）
 * fix：修补 bug
 * docs：文档（documentation）
-* style： 格式（比如：空格，空行的删除，log 的增删等）
-* refactor：重构（如：代码逻辑的优化，但不更改代码原有功能，也不影响代码运行)
+* refactor：性能或结构上的优化，并未带来功能的逻辑变化
 * chore：构建过程或辅助工具的变动
+* comments: 修改代码注释
+* log: 修改代码 log
+* remove: 已删除的功能
 * test：增加测试
-* deploy: 上线部署
+* deploy: 上线部署（比如需要在本地 build 资源）
+* ~~style： 格式（比如：空格，空行的删除，log 的增删等）~~
+
 
 三个部分中 *type* 和 *subject* 必不可少, *scope* 根据实际情况来. 如果某个 Git 仓库包含了几个大业务块, 而我们的 commit 往往只是其中一个业务块中的一部分需求, 这个情况下将 scope 补充上较好.
 

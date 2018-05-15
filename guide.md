@@ -19,7 +19,7 @@
 * log: 修改代码 log
 * remove: 已删除的功能
 * test：增加测试
-* deploy: 上线部署（比如需要在本地 build 资源）
+* deploy: 上线部署（比如需要提交在本地 build 的资源等）
 * ~~style： 格式（比如：空格，空行的删除，log 的增删等）~~
 
 

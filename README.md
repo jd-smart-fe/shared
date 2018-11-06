@@ -1,6 +1,7 @@
 # 共享文档
 
 ## 2018
+- [HTTP扫盲](https://github.com/jd-smart-fe/shared/issues/14)
 - [Mobx](https://github.com/jd-smart-fe/shared/issues/13)
 - [CSS Modules详解及在React中的实践](https://github.com/jd-smart-fe/shared/issues/11)
 - [React 服务端渲染与同构](https://github.com/jd-smart-fe/shared/issues/10)

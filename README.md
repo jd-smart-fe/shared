@@ -1,6 +1,8 @@
 # 共享文档
 
 ## 2018
+- [flutter 学习笔记—— App结构和导航（BottomNavigationBar）](https://github.com/jd-smart-fe/shared/issues/16)
+- [Flutter 基础—— Dart 入门](https://github.com/jd-smart-fe/shared/issues/15)
 - [HTTP扫盲](https://github.com/jd-smart-fe/shared/issues/14)
 - [Mobx](https://github.com/jd-smart-fe/shared/issues/13)
 - [CSS Modules详解及在React中的实践](https://github.com/jd-smart-fe/shared/issues/11)

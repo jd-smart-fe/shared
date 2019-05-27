@@ -26,5 +26,3 @@
 
 - [代码规范](https://github.com/jd-smart-fe/shared/blob/master/guide.md)
 
-## Blog
-- [Pspgbhu's Blog](http://blog.pspgbhu.me/)
